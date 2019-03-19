@@ -84,4 +84,5 @@
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <plugin name="com.red_folder.phonegap.plugin.backgroundservice" spec="https://github.com/fjms/ionic-bgs-core" />
     <engine name="android" spec="7.0.0" />
+    <plugin name="cordova-plugin-local-notification" spec="^0.9.0-beta.2" />
 </widget>
